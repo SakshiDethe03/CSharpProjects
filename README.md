@@ -1,16 +1,16 @@
-🚀 CsharpProjects – 200 C# Mini Projects Challenge
+<h2>🚀 CsharpProjects – 200 C# Mini Projects Challenge</h2>
 
-Welcome to my 200 C# Mini Projects Challenge 🎯
+<h4>Welcome to my 200 C# Mini Projects Challenge 🎯</h4>
 
 This repository documents my journey of building 200 C# mini projects to master C#, .NET, Object-Oriented Programming, and real-world problem solving.
 
-The goal is simple:
+<h4>The goal is simple:</h4>
 👉 Build consistently
 👉 Improve logic
 👉 Strengthen OOP concepts
 👉 Become industry-ready
 
-📌 Challenge Goal
+<h4>📌 Challenge Goal<h4></h4>
 
 🏆 Total Projects Target: 200
 
@@ -18,7 +18,7 @@ The goal is simple:
 
 🎯 Focus: Fundamentals → OOP → LINQ → File Handling → Advanced Concepts → Real Applications
 
-📂 Project List
+<h4>📂 Project List</h4>
 🟢 Phase 1: Fundamentals
 No	Project Name	Concepts Covered	Status
 1	Calculator	Operators, Methods	✅
@@ -31,47 +31,46 @@ No	Project Name	Concepts Covered	Status
 8	Runtime Polymorphism	OOP	✅
 9	Read/Write Operations	File Handling	✅
 
-🧠 Skills I’m Building
+<h4>🧠 Skills I’m Building</h4>
 <ul>
-  <li>Strong C# Fundamentals</li>
+<li>Strong C# Fundamentals</li>
 <li>Clean Coding Practices</li>
 <li>Object-Oriented Programming</li>
-
 <li>LINQ and Data Manipulation</li>
-
 <li>File Handling</li>
-
 <li>Problem-Solving Skills</li>
-
 <li>Project Structuring</li>
 </ul>
-🛠 Tech Stack
 
-Language: C#
+<h4>🛠 Tech Stack</h4>
+<ul>
+<li>Language: C#</li>
 
-Framework: .NET
+<li>Framework: .NET</li>
 
-IDE: Visual Studio
+<li>IDE: Visual Studio</li>
 
-Application Type: Console Applications
+<li>Application Type: Console Applications</li>
+</ul>
 
-📈 Why 200 Projects?
+<h4>📈 Why 200 Projects?</h4>
 
 Because mastery doesn’t come from watching tutorials.
 It comes from building consistently.
 
 This challenge is about discipline, growth, and becoming confident in C# development.
 
-🚀 Future Plan
+<h4>🚀 Future Plan</h4>
+<ul>
+<li>Add Intermediate Projects (OOP-based systems)</li>
 
-Add Intermediate Projects (OOP-based systems)
+<li>Add File-based Mini Applications</li>
 
-Add File-based Mini Applications
+<li>Add GUI Applications</li>
 
-Add GUI Applications
+<li>Add Small Real-World Simulations</li>
+</ul>
 
-Add Small Real-World Simulations
-
-📢 Progress Updates
+<h4>📢 Progress Updates</h4>
 
 I will keep updating this repository as I complete more projects.
