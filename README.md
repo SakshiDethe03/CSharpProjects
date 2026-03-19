@@ -14,13 +14,13 @@ This repository documents my journey of building 200 C# mini projects to master 
 
 🏆 Total Projects Target: 200
 
-🔥 Current Progress: 1 / 200
+🔥 Current Progress: 2 / 200
 
 🎯 Focus: Fundamentals → OOP → LINQ → File Handling → Advanced Concepts → Real Applications
 
 <h4>📂 Project List</h4>
 1	Hello World!✅
-
+2 Display User Details ✅
 
 <h4>🧠 Skills I’m Building</h4>
 <ul>
