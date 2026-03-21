@@ -19,13 +19,15 @@ This repository documents my journey of building 200 C# mini projects to master 
 🎯 Focus: Fundamentals → OOP → LINQ → File Handling → Advanced Concepts → Real Applications
 
 <h4>📂 Project List</h4>
-1	Hello World!✅
-2 Display User Details ✅
-3 Addition of Two Numbers ✅
-4 Even or Odd Number Checker✅
-5 Positive or Negative Number Checker✅
-6 Maximum of Two Number Checker ✅
-7 Maximum of Three Numbers Checker ✅
+<ol>
+<li>Hello World!✅</li>
+<li>Display User Details ✅</li>
+<li>3 Addition of Two Numbers ✅</li>
+<li>4 Even or Odd Number Checker✅</li>
+<li>5 Positive or Negative Number Checker✅</li>
+<li>6 Maximum of Two Number Checker ✅</li>
+<li>7 Maximum of Three Numbers Checker ✅</li>
+</ol>
 
 <h4>🧠 Skills I’m Building</h4>
 <ul>
