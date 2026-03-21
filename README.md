@@ -23,10 +23,10 @@ This repository documents my journey of building 200 C# mini projects to master 
 <li>Hello World!✅</li>
 <li>Display User Details ✅</li>
 <li>3 Addition of Two Numbers ✅</li>
-<li>4 Even or Odd Number Checker✅</li>
-<li>5 Positive or Negative Number Checker✅</li>
-<li>6 Maximum of Two Number Checker ✅</li>
-<li>7 Maximum of Three Numbers Checker ✅</li>
+<li>Even or Odd Number Checker✅</li>
+<li>Positive or Negative Number Checker✅</li>
+<li>Maximum of Two Number Checker ✅</li>
+<li>Maximum of Three Numbers Checker ✅</li>
 </ol>
 
 <h4>🧠 Skills I’m Building</h4>
