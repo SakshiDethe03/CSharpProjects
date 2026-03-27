@@ -31,6 +31,7 @@ This repository documents my journey of building 200 C# mini projects to master 
 <li>Palindrome Number Checker ✅</li>
 <li>Sum of Digits of a Number ✅</li>
 <li>Count Digits in a String ✅</li>
+<li>Reverse a Number ✅</li>
 </ol>
 
 <h4>🧠 Skills I’m Building</h4>
