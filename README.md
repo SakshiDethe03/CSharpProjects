@@ -14,7 +14,7 @@ This repository documents my journey of building 200 C# mini projects to master 
 
 🏆 Total Projects Target: 200
 
-🔥 Current Progress: 7 / 200
+🔥 Current Progress: 12 / 200
 
 🎯 Focus: Fundamentals → OOP → LINQ → File Handling → Advanced Concepts → Real Applications
 
@@ -27,6 +27,10 @@ This repository documents my journey of building 200 C# mini projects to master 
 <li>Positive or Negative Number Checker✅</li>
 <li>Maximum of Two Number Checker ✅</li>
 <li>Maximum of Three Numbers Checker ✅</li>
+<li>Swapping of Two Numbers ✅</li>
+<li>Palindrome Number Checker ✅</li>
+<li>Sum of Digits of a Number ✅</li>
+<li>Count Digits in a String ✅</li>
 </ol>
 
 <h4>🧠 Skills I’m Building</h4>
