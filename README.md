@@ -14,13 +14,20 @@ This repository documents my journey of building 200 C# mini projects to master 
 
 🏆 Total Projects Target: 200
 
-🔥 Current Progress: 2 / 200
+🔥 Current Progress: 7 / 200
 
 🎯 Focus: Fundamentals → OOP → LINQ → File Handling → Advanced Concepts → Real Applications
 
 <h4>📂 Project List</h4>
-1	Hello World!✅
-2 Display User Details ✅
+<ol>
+<li>Hello World!✅</li>
+<li>Display User Details ✅</li>
+<li>3 Addition of Two Numbers ✅</li>
+<li>Even or Odd Number Checker✅</li>
+<li>Positive or Negative Number Checker✅</li>
+<li>Maximum of Two Number Checker ✅</li>
+<li>Maximum of Three Numbers Checker ✅</li>
+</ol>
 
 <h4>🧠 Skills I’m Building</h4>
 <ul>
