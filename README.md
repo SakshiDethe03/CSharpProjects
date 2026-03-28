@@ -14,7 +14,7 @@ This repository documents my journey of building 200 C# mini projects to master 
 
 🏆 Total Projects Target: 200
 
-🔥 Current Progress: 12 / 200
+🔥 Current Progress: 16 / 200
 
 🎯 Focus: Fundamentals → OOP → LINQ → File Handling → Advanced Concepts → Real Applications
 
@@ -32,6 +32,10 @@ This repository documents my journey of building 200 C# mini projects to master 
 <li>Sum of Digits of a Number ✅</li>
 <li>Count Digits in a String ✅</li>
 <li>Reverse a Number ✅</li>
+<li>Simple Interest ✅</li>
+<li>Compound Interest ✅</li>
+<li>Fibonacci Series ✅</li>
+<li>Armstrong number ✅</li>
 </ol>
 
 <h4>🧠 Skills I’m Building</h4>
