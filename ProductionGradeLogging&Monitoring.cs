@@ -1,0 +1,1 @@
+Log.Information("User {UserId} logged in", id);
