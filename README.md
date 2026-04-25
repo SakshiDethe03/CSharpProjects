@@ -1,8 +1,8 @@
-<h2>🚀 CsharpProjects – 200 C# Mini Projects Challenge</h2>
+<h2>🚀 CsharpProjects – 250 C# Mini Projects Challenge</h2>
 
-<h4>Welcome to my 200 C# Mini Projects Challenge 🎯</h4>
+<h4>Welcome to my 250 C# Mini Projects Challenge 🎯</h4>
 
-This repository documents my journey of building 200 C# mini projects to master C#, .NET, Object-Oriented Programming, and real-world problem solving.
+This repository documents my journey of building 250 C# mini projects to master C#, .NET, Object-Oriented Programming, and real-world problem solving.
 
 <h4>The goal is simple:</h4>
 👉 Build consistently
@@ -12,31 +12,11 @@ This repository documents my journey of building 200 C# mini projects to master 
 
 <h4>📌 Challenge Goal<h4></h4>
 
-🏆 Total Projects Target: 200
+🏆 Total Projects Target: 250
 
-🔥 Current Progress: 80 / 200
+🔥 Current Progress: 250 / 250
 
 🎯 Focus: Fundamentals → OOP → LINQ → File Handling → Advanced Concepts → Real Applications
-
-<h4>📂 Project List</h4>
-<ol>
-<li>Hello World!✅</li>
-<li>Display User Details ✅</li>
-<li>3 Addition of Two Numbers ✅</li>
-<li>Even or Odd Number Checker✅</li>
-<li>Positive or Negative Number Checker✅</li>
-<li>Maximum of Two Number Checker ✅</li>
-<li>Maximum of Three Numbers Checker ✅</li>
-<li>Swapping of Two Numbers ✅</li>
-<li>Palindrome Number Checker ✅</li>
-<li>Sum of Digits of a Number ✅</li>
-<li>Count Digits in a String ✅</li>
-<li>Reverse a Number ✅</li>
-<li>Simple Interest ✅</li>
-<li>Compound Interest ✅</li>
-<li>Fibonacci Series ✅</li>
-<li>Armstrong number ✅</li>
-</ol>
 
 <h4>🧠 Skills I’m Building</h4>
 <ul>
@@ -60,7 +40,7 @@ This repository documents my journey of building 200 C# mini projects to master 
 <li>Application Type: Console Applications</li>
 </ul>
 
-<h4>📈 Why 200 Projects?</h4>
+<h4>📈 Why 250 Projects?</h4>
 
 Because mastery doesn’t come from watching tutorials.
 It comes from building consistently.
